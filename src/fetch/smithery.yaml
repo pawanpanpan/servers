@@ -2,4 +2,4 @@ name: fetch
 version: 1.0.0
 description: MCP server for fetching web content
 transport: stdio
-runtime: node
+runtime: typescript
